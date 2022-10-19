@@ -1,0 +1,57 @@
+202101Information Services and Study Fundamentals       2B+
+212101English I                                         3C 
+302111Calculus and Analytic Geometry I                  3C 
+303101Chemistry I                                       3C+
+303102Chemistry Laboratory I                            1A 
+306101General Biology I                                 3C+
+306102General Biology Laboratory I                      1C+
+308101Introductory Physics I                            3C 
+308102Introductory Physics Laboratory I                 1B 
+212102English II                                        3B 
+302112Calculus and Analytic Geometry II                 3B 
+303103Chemistry II                                      3C 
+303104Chemistry Laboratory II                           1B+
+306103General Biology II                                3C 
+306104General Biology Laboratory II                     1C+
+308103Introductory Physics II                           3C 
+308104Introductory Physics Laboratory II                1C+
+310201Computer and Data Processing                      3A 
+203100Man and Civilization                              2C 
+212301Reading Laboratory I                              2C+
+226100Man and Economy                                   2C 
+302213Calculus and Analytic Geometry III                2D+
+302323Linear Algebra I                                  3D 
+310211Computer Science I                                3C+
+310212Discrete Mathematics                              3C 
+312201Elementary Statistics                             3B 
+208101Thai I                                            2C+
+212302Reading Laboratory II                             2C 
+224101Man and Politics                                  2B 
+225100Man, Society and Culture                          2B 
+302315Ordinary Differential Equations                   3C 
+310213Computer Science II                               3B+
+310231Computer Oganization and Assembly Language        3A 
+310341Data Structure and Algorithms                     3B 
+441101Wellness Development                              2B 
+601101Man and Aesthetics                                2B 
+226111Introduction to Economics                         2C 
+230416Production Management                             3D 
+308371Introduction to Electronics                       3C+
+310332Computer Architecture                             3B 
+310444File Processing                                   3A 
+310482Computer Graphic                                  3B 
+301301Quality Management                                1D 
+310327Principles of Programming Languages               3A 
+310342Database Design                                   3B 
+310414Software Engineering                              3B 
+310453Operating System                                  3A 
+310461Data Communication                                3C+
+441113Basketball I                                      1A 
+310452Compiler Construction                             3B+
+310462Computer Networks                                 3A 
+310481Systems Analysis and Design                       3C 
+310484Introduction to Artificial Intelligence           3C 
+310485Office Automation Management                      3C+
+310492Computer Seminar                                  1B+
+310417Selected Topics                                   3B 
+310491Projects in Computer Science                      2A 
